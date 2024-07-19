@@ -10,27 +10,26 @@
 - 비동기 함수: 처리를 요청, 마무리는 콜백 함수로!
 
 ## 2) 실습 코드
+### 1. sync vs async
+- [sync](./sync.js)
+- [longSync](./longSync.js)
+- [async](./async.js)
 
-### 0. [sync](./sync.js)
+### 2. 이상한 async
+- [asyncStrange](./asyncStrange.js)
+- [asyncWithLongSync](./asyncWithLongSync.js)
 
-### 1. [longSync](./longSync.js)
+### 3. async의 순차 처리
+- [asyncInOrder1](./asyncInOrder1.js)
+- [asyncInOrder1WithLongSync](./asyncInOrder1WithLongSync.js)
+- [asyncInOrder2](./asyncInOrder2.js)
+- [asyncInOrder2WithLongSync](./asyncInOrder2WithLongSync.js)
 
-### 2. [async](./async.js)
+### 4. async의 순차 처리 현실적인 예시
+- [asyncFileIo](./asyncFileIo.js)
+- [asyncFileIoInOrder](./asyncFileIoInOrder.js)
 
-### 3. [asyncStrange](./asyncStrange.js)
-
-### 4. [asyncWithLongSync](./asyncWithLongSync.js)
-
-### 5. [asyncInOrder1](./asyncInOrder1.js)
-
-### 6. [asyncInOrder1WithLongSync](./asyncInOrder1WithLongSync.js)
-
-### 7. [asyncInOrder2](./asyncInOrder2.js)
-
-### 8. [asyncInOrder2WithLongSync](./asyncInOrder2WithLongSync.js)
-
-### 9. [callbackHell](./callbackHell.js)
-
-### 10. [promise](./promise.js)
-
-### 11. [promiseAsyncAwait](./promiseAsyncAwait.js)
+### 5. 콜백 지옥과 해결 방법
+- [callbackHell](./callbackHell.js)
+- [promise](./promise.js)
+- [promiseAsyncAwait](./promiseAsyncAwait.js)
