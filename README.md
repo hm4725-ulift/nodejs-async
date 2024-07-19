@@ -10,13 +10,13 @@
 
 ### 4. [asyncWithLongSync](./asyncWithLongSync.js)
 
-### 5. [continuousAsync1](./continuousAsync1.js)
+### 5. [asyncInOrder1](./asyncInOrder1.js)
 
-### 6. [continuousAsync1WithLongSync](./continuousAsync1WithLongSync.js)
+### 6. [asyncInOrder1WithLongSync](./asyncInOrder1WithLongSync.js)
 
-### 7. [continuousAsync2](./continuousAsync2.js)
+### 7. [asyncInOrder2](./asyncInOrder2.js)
 
-### 8. [continuousAsync1WithLongSync](./continuousAsync2WithLongSync.js)
+### 8. [asyncInOrder2WithLongSync](./asyncInOrder2WithLongSync.js)
 
 ### 9. [callbackHell](./callbackHell.js)
 
