@@ -1,5 +1,16 @@
 # node.js 비동기 학습
 
+## 1) 비동기 다이어그램
+
+![diagram](./img/syncasync.drawio.png)
+
+### 결론
+
+- 동기 함수: 직접 처리
+- 비동기 함수: 처리를 요청, 마무리는 콜백 함수로!
+
+## 2) 실습 코드
+
 ### 0. [sync](./sync.js)
 
 ### 1. [longSync](./longSync.js)
